@@ -29,7 +29,7 @@ A simple RESTful API built with Node.js, Express, and MongoDB for managing produ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/product-crud-api.git
+   git clone https://github.com/Yasindu007/REST-API-with-MongoDB-Express.git
    cd product-crud-api
 2.Install dependencies:
 
